@@ -1,0 +1,7 @@
+## Interface 
+## Title: guildChatChart
+## Notes: This addon is to visualize guild chat participation in the same way Details present metrics.
+## Author: Aletss-Benediction
+## Version: 0.0.1
+
+guildChatChart.lua
